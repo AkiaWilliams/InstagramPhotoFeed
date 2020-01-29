@@ -1,0 +1,150 @@
+body {
+  background-color: #cccccc;
+}
+.top-wrapper {
+  background-color: white;
+}
+.title-wrapper {
+  width: 30%;
+  margin: auto;
+  height: 120px;
+  padding-top: 15px;
+}
+.header {
+  margin-top: 80px;
+  text-align: center;
+}
+.post {
+  width: 600px;
+  margin: auto;
+}
+.box1 {
+  background-color: white;
+  width: 100%;
+  height: 500px;
+  margin: auto;
+  margin-bottom: 60%;
+  border-radius: 10px;
+}
+.top-box1 {
+  height: 15%;
+}
+.left-top-box1 {
+  height: 100%;
+  width: 48%;
+  float: left;
+  text-align: left;
+  padding-left: 10px;
+}
+.right-top-box1 {
+  height: 100%;
+  width: 50%;
+  float: left;
+  color: grey;
+  text-align: right;
+}
+.middle-box1 {
+  height: 70%;
+}
+.bottom-box1 {
+  text-align: left;
+  padding-left: 50px;
+  background-color: white;
+}
+.box2 {
+  background-color: white;
+  width: 100%;
+  height: 500px;
+  margin: auto;
+  margin-bottom: 60px;
+  border-radius: 10px;
+  margin-top: 70px;
+}
+.top-box2 {
+  height: 15%;
+  border-radius: 10px;
+}
+.left-top-box2 {
+  height: 100%;
+  width: 48%;
+  float: left;
+  text-align: left;
+  padding-left: 10px;
+}
+.right-top-box2 {
+  height: 100%;
+  width: 50%;
+  float: left;
+  color: grey;
+  text-align: right;
+}
+.middle-box2 {
+  height: 70%;
+}
+.bottom-box2 {
+  text-align: left;
+  padding-left: 50px;
+}
+.box3 {
+  background-color: white;
+  width: 100%;
+  height: 500px;
+  margin: auto;
+  margin-bottom: 60px;
+  border-radius: 10px;
+}
+.top-box3 {
+  height: 15%;
+}
+.left-top-box3 {
+  height: 100%;
+  width: 48%;
+  float: left;
+  text-align: left;
+  padding-left: 10px;
+}
+.right-top-box3 {
+  height: 100%;
+  width: 50%;
+  float: left;
+  color: grey;
+  text-align: right;
+}
+.middle-box3 {
+  height: 70%;
+}
+.bottom-box3 {
+  text-align: left;
+  padding-left: 50px;
+}
+.box4 {
+  background-color: white;
+  width: 100%;
+  height: 500px;
+  margin: auto;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+.top-box4 {
+  height: 15%;
+}
+.left-top-box4 {
+  height: 100%;
+  width: 48%;
+  float: left;
+  text-align: left;
+  padding-left: 10px;
+}
+.right-top-box4 {
+  width: 50%;
+  float: left;
+  color: grey;
+  text-align: right;
+}
+.middle-box4 {
+  height: 70%;
+}
+.bottom-box4 {
+  text-align: left;
+  padding-left: 50px;
+}
